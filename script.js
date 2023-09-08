@@ -15,6 +15,6 @@ function fibonacci(num) {
     return fibList[num - 1];
   }
 }
-}
+
 
 module.exports = fibonacci;
